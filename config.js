@@ -31,7 +31,7 @@ module.exports = {
 
 	// The master channel
 	// The bot will announce the events to this channel. It won't listen to other channels.
-	master_channel: "YOUR_MASTER_CHANNEL",
+	master_channel: "280820604825763841",
 
 	// Events are considered "happening" for a margin of time, where users can see that the event
 	// is happening right now. During that time, the event is not considered expired yet.+
@@ -43,7 +43,7 @@ module.exports = {
 	update_interval: 60000, // In milliseconds
 
 	// List of accepted timezones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-	default_timezone: "Europe/Madrid",
+	default_timezone: "Asia/Jakarta",
 
 	// The time format that will be used for the create command. The bot will read a date string
 	// and will attempt to interpret it as the following format. If the passed time doesn't
