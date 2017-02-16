@@ -102,7 +102,7 @@ module.exports = {
 		name: "ScheduleBot",
 
 		// The first bot's profile URL. It's needed to redirect users to it.
-		profile_url: "http://steamcommunity.com/profiles/YOUR_BOT_ID/"
+		profile_url: "http://steamcommunity.com/profiles/76561198153274487/"
 	},
 
 	dota: {
